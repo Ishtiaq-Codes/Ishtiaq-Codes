@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project..<br>👯 I’m looking to collaborate on Django..<br>🤝 I’m looking for help to join a software house as an ASE..<br>🌱 I’m currently learning full-stack web development..<br>💬 Inquire me about new technologies..<br>⚡ Fun fact: studying blockchain and cryptocurrency since 2021
+🔭 I’m currently working on a personal project..<br>👯 I’m looking to collaborate on Django..<br>🤝 I’m looking for help to join a software house as an ASE..<br>🌱 I’m currently learning full-stack web development..<br>💬 Inquire me about new technologies..<br>⚡ Fun fact: studying blockchain and cryptocurrency since 2022
 
 
 ## 🌐 Socials:

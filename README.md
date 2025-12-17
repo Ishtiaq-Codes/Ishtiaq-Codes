@@ -19,7 +19,7 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ishtiaq-Codes&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---

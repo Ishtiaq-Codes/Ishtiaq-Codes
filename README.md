@@ -2,7 +2,7 @@
 🔭 I’m currently working on a personal project..<br>👯 I’m looking to collaborate on Django..<br>🤝 I’m looking for help to join a software house as an ASE..<br>🌱 I’m currently learning full-stack web development..<br>💬 Inquire me about new technologies..<br>⚡ Fun fact: studying blockchain and cryptocurrency since 2021
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/https://www.linkedin.com/in/hafiz-muhammad-ishtiaq) [![Stack Overflow]()](https://stackoverflow.com/users/https://stackoverflow.com/users/32032450/ishtiaq-codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishtiaq00710@gmail.com) 
 

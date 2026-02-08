@@ -14,7 +14,7 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ishtiaq-Codes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Today Dev Quote
+## ✍️ Today Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🔝 Top Contributed Repo
